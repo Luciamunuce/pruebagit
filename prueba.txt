@@ -6,6 +6,7 @@ Fecha de nacimiento: 18/12/1999
 
 
 Nombre: Fernando
+Apellido: Gonzalez
 
 
 
