@@ -1,9 +1,9 @@
 Nombre: Lucia
 Apellido: Munuce
 Edad: 22 años
-Direcciòn: Barrio N. Kirchner Calle Victoria Ocampo 
-
+Direcciòn: Barrio N. Kirchner Calle Victoria Ocampo Casa Nº 21
 Fecha de nacimiento: 18/12/1999
+
 
 Nombre: Fernando
 
