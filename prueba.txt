@@ -6,7 +6,6 @@ Direcciòn: Barrio N. Kirchner Calle Victoria Ocampo
 Fecha de nacimiento: 18/12/1999
 
 Nombre: Fernando
-Apellido: Gonzalez
-Edad: 31
-Dirección: Necochea 1250, Godoy Cruz, Mendoza
+
+
 
